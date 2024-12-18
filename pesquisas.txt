@@ -1,0 +1,2 @@
+# Criando um Executavel Python
+# https://www.youtube.com/watch?v=_Lc5fSQfOO8
